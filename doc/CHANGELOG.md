@@ -1,3 +1,17 @@
+## [1.3.2](https://github.com/aurelia/history-browser/compare/1.3.1...1.3.2) (2019-04-20)
+
+
+
+<a name="1.3.2"></a>
+## [1.3.2](https://github.com/aurelia/history-browser/compare/1.3.0...1.3.2) (2019-03-27)
+
+
+### Bug Fixes
+
+* **all:** change es2015 back to native-modules ([9cd5fb8](https://github.com/aurelia/history-browser/commit/9cd5fb8))
+
+
+
 <a name="1.3.1"></a>
 ## [1.3.1](https://github.com/aurelia/history-browser/compare/1.3.0...1.3.1) (2019-02-04)
 
